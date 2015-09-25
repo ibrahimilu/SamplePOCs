@@ -1,5 +1,1 @@
-```javascript
-$(function(){
-console.log('sample pocs');
-}();
-```
+Sample
